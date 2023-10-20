@@ -1,1 +1,3 @@
 HI
+name: Jimin Yum
+age: 18
